@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{3406B618-3527-2449-FA61-AB24C2258AFE}") = "Physic Real World", "Assembly-CSharp.csproj", "{54F1A3CD-3071-5B7C-E855-CD115D858466}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54F1A3CD-3071-5B7C-E855-CD115D858466}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54F1A3CD-3071-5B7C-E855-CD115D858466}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54F1A3CD-3071-5B7C-E855-CD115D858466}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54F1A3CD-3071-5B7C-E855-CD115D858466}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
